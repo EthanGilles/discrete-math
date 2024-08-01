@@ -16,7 +16,6 @@ Learning Objectives:
 
 Notes:
 - All learning objectives have at least one question associated with them.
-- Maybe another problem about creating a power set or determining cardinality should be included?
 '''
 
 '''
@@ -129,6 +128,7 @@ y = A < C
 z = C < D
 # print(f"A < B - {x}     A < C - {y}     C < D - {z}")
 
+
 '''
 Question 8:
 Find the union, intersection, and difference of: A ∪ C, A ∩ C, and C ∖ D
@@ -142,7 +142,6 @@ x = A.union(C)
 y = A.intersection(C)
 z = C.difference(D)
 # print(f"A ∪ C = {x}     A ∩ C = {y}      C ∖ D = {z}")
-
 
 
 '''
